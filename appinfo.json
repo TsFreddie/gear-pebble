@@ -1,0 +1,144 @@
+{
+    "appKeys": {
+        "KEY_12HOUR": 22,
+        "KEY_ADTZ": 2,
+        "KEY_BLUETOOTH_VIBE": 3,
+        "KEY_HOURLY_VIBE": 4,
+        "KEY_HOUR_BLUE": 7,
+        "KEY_HOUR_GREEN": 6,
+        "KEY_HOUR_RED": 5,
+        "KEY_ICON": 1,
+        "KEY_MINUTE_BLUE": 10,
+        "KEY_MINUTE_GREEN": 9,
+        "KEY_MINUTE_RED": 8,
+        "KEY_POWER_SAVING_END": 15,
+        "KEY_POWER_SAVING_START": 14,
+        "KEY_SECOND_BAR": 16,
+        "KEY_SECOND_BAR_BLUE": 13,
+        "KEY_SECOND_BAR_GREEN": 12,
+        "KEY_SECOND_BAR_RED": 11,
+        "KEY_SECOND_BLUE": 20,
+        "KEY_SECOND_GREEN": 19,
+        "KEY_SECOND_RED": 18,
+        "KEY_SECOND_REFRESH_RATE": 21,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "TsFreddie",
+    "longName": "GeaR",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/noadtz.png",
+                "menuIcon": true,
+                "name": "EXAMPLE",
+                "type": "png"
+            },
+            {
+                "file": "images/Frame.png",
+                "name": "FRAME",
+                "targetPlatforms": [
+                    "basalt"
+                ],
+                "type": "png"
+            },
+            {
+                "file": "images/Additional Display.png",
+                "name": "WINDOW",
+                "targetPlatforms": [
+                    "basalt"
+                ],
+                "type": "png"
+            },
+            {
+                "file": "images/charging_battery.png",
+                "name": "BATTERY_CHARGING",
+                "type": "png"
+            },
+            {
+                "file": "images/w_50.png",
+                "name": "W50",
+                "type": "png"
+            },
+            {
+                "file": "images/w_13.png",
+                "name": "W13",
+                "type": "png"
+            },
+            {
+                "file": "images/w_11.png",
+                "name": "W11",
+                "type": "png"
+            },
+            {
+                "file": "images/w_10n.png",
+                "name": "W10N",
+                "type": "png"
+            },
+            {
+                "file": "images/w_10d.png",
+                "name": "W10D",
+                "type": "png"
+            },
+            {
+                "file": "images/w_09.png",
+                "name": "W09",
+                "type": "png"
+            },
+            {
+                "file": "images/w_04.png",
+                "name": "W04",
+                "type": "png"
+            },
+            {
+                "file": "images/w_03.png",
+                "name": "W03",
+                "type": "png"
+            },
+            {
+                "file": "images/w_02n.png",
+                "name": "W02N",
+                "type": "png"
+            },
+            {
+                "file": "images/w_02d.png",
+                "name": "W02D",
+                "type": "png"
+            },
+            {
+                "file": "images/w_01n.png",
+                "name": "W01N",
+                "type": "png"
+            },
+            {
+                "file": "images/w_01d.png",
+                "name": "W01D",
+                "type": "png"
+            },
+            {
+                "file": "images/battery.png",
+                "name": "BATTERY",
+                "type": "png"
+            },
+            {
+                "file": "images/bluetooth.png",
+                "name": "BLUETOOTH",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "GeaR",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "04a5aed4-ed39-41d2-abfd-e8a5e92e5e51",
+    "versionLabel": "2.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
